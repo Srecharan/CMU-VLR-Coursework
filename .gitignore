@@ -3,4 +3,4 @@ runs/
 data/
 checkpoint-*.pth
 sre*
-
+theory_qns
